@@ -2,9 +2,6 @@
   <img src="kaoruko.gif" width="650">
 </p>
 
-## 🌌 Galaxy Contribution Animation
-![Galaxy Animation](https://raw.githubusercontent.com/Rextt1122/github-galaxy/main/dist/galaxy.svg)
-
 ## Hi, I'm **Biyann**
 Computer Engineering Student • Python & IT Enthusiast  
 
