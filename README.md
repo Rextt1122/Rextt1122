@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rextt1122/Rextt1122/main/kaoruko.gif" width="1000"/>
+  <img src="https://raw.githubusercontent.com/Rextt1122/Rextt1122/main/kaoruko.gif" width="870"/>
 </p>
 
 ## Hi, I'm Biyann
