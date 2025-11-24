@@ -32,6 +32,11 @@ Computer Engineering Student • Python & IT Enthusiast
 </p>
 
 ---
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rextt1122&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rextt1122&layout=compact&theme=tokyonight" height="165" />
+</p>
 
 ### Languages and Tools I Use
 <p align="left">
