@@ -29,12 +29,6 @@ Computer Engineering Student • Python & IT Enthusiast
   <a href="https://discord.com/users/690153711005859870">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
-
-  <!-- Apple Music -->
-  <a href="https://music.apple.com/">
-    <img src="https://img.shields.io/badge/Apple%20Music-FA243C?logo=applemusic&logoColor=white&style=for-the-badge" />
-  </a>
-
 </p>
 
 ---
