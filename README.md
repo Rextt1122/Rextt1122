@@ -7,7 +7,7 @@ Computer Engineering Student • Python & IT Enthusiast
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 <p align="left">
 
   <!-- Instagram -->
@@ -32,7 +32,7 @@ Computer Engineering Student • Python & IT Enthusiast
 </p>
 
 ---
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Rextt1122&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rextt1122&layout=compact&theme=tokyonight" height="165" />
