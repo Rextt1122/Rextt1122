@@ -1,6 +1,20 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rextt1122/Rextt1122/main/kaoruko.gif" width="720"/>
+  <img src="kaoruko.gif" width="300">
 </p>
 
-## Hi, I'm Biyann
-Computer Engineering Student • Python & IT Enthusiast
+## Hi, I'm **Biyann**
+Computer Engineering Student • Python & IT Enthusiast  
+
+---
+
+### 🌸 Languages and Tools I Use
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,linux,git,github,arduino,vscode" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rextt1122/github-snake/output/snake.svg">
+</p>
