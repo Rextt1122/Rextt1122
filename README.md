@@ -7,9 +7,9 @@ Computer Engineering Student • Python & IT Enthusiast
 
 ---
 
-### 🌸 Languages and Tools I Use
+### Languages and Tools I Use
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,linux,git,github,arduino,vscode" />
 </p>
 
---
+---
