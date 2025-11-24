@@ -6,7 +6,8 @@
 Computer Engineering Student • Python & IT Enthusiast  
 
 ---
-<img src="https://github-profile-trophy.vercel.app/?username=Rextt1122&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME" />
+
 
 ### Connect With Me
 <p align="left">
