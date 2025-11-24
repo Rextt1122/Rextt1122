@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Rextt1122/github-snake/main/dist/kaoruko.gif" width="75%">
+  <img src="kaoruko.gif" width="500">
 </p>
 
 ## Hi, I'm **Biyann**
