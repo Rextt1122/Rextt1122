@@ -1,17 +1,16 @@
 <div align="center">
 
-## 👋 Hi, I’m **Biyann**
-Mahasiswa Teknik Komputer • Python & IT Enthusiast
+## 👋 Hi, I'm **Biyann**
+Computer Engineering Student • Python & IT Enthusiast
 
 </div>
 
 ---
 
 ### 🧩 About Me
-- 📚 Sedang belajar Python & dasar-dasar pemrograman  
-- 🛠️ Tertarik sama teknologi, jaringan, dan dunia IT  
-- 🌱 Masih explore banyak hal baru di coding  
-- 🎧 Ngoding ditemani musik / anime OST  
+- Currently learning Python and fundamental programming  
+- Interested in technology, networking, and IT in general  
+- Exploring new things in coding  
 
 ---
 
@@ -23,7 +22,7 @@ Mahasiswa Teknik Komputer • Python & IT Enthusiast
 ---
 
 ### 🐍 Contribution Snake
-> Optional — bisa dihapus kapan aja.
+> Optional — you can remove this anytime.
   
 ![snake gif](https://github.com/Rextt1122/Rextt1122/blob/output/github-contribution-grid-snake.svg)
 
