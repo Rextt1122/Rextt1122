@@ -1,5 +1,6 @@
-<img src="kaoruko.gif" align="left" width="100%" />
+<img src="kaoruko.gif" align="left" width="400px" />
 <br clear="left"/>
+
 
 ## Hi, I'm **Biyann**
 Computer Engineering Student • Python & IT Enthusiast  
