@@ -1,5 +1,5 @@
-<p align="center"> <img src="kaoruko.gif" width="650"> </p>
-
+<img src="kaoruko.gif" align="left" width="100%" />
+<br clear="left"/>
 
 ## Hi, I'm **Biyann**
 Computer Engineering Student • Python & IT Enthusiast  
