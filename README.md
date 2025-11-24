@@ -3,7 +3,8 @@
 </p>
 
 
-![Galaxy Animation](https://raw.githubusercontent.com/Rextt1122/github-galaxy/main/dist/galaxy.svg?v=2)
+![Galaxy](https://raw.githubusercontent.com/Rextt1122/github-galaxy/main/dist/galaxy.svg?raw=1)
+
 
 ## Hi, I'm **Biyann**
 Computer Engineering Student • Python & IT Enthusiast  
