@@ -6,7 +6,7 @@
 Computer Engineering Student • Python & IT Enthusiast  
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rextt1122"/>
 
 
 ### Connect With Me
