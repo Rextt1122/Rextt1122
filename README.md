@@ -1,13 +1,12 @@
 <p align="center">
   <img src="kaoruko.gif" width="650">
 </p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Rextt1122&label=Profile%20Views&color=blue&style=flat" />
-</p>
+
 ## Hi, I'm **Biyann**
 Computer Engineering Student • Python & IT Enthusiast  
 
 ---
+<img src="https://github-profile-trophy.vercel.app/?username=Rextt1122&theme=tokyonight" />
 
 ### Connect With Me
 <p align="left">
