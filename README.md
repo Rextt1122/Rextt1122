@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Rextt1122/Rextt1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I’m **Biyann**
+Mahasiswa Teknik Komputer • Python & IT Enthusiast
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧩 About Me
+- 📚 Sedang belajar Python & dasar-dasar pemrograman  
+- 🛠️ Tertarik sama teknologi, jaringan, dan dunia IT  
+- 🌱 Masih explore banyak hal baru di coding  
+- 🎧 Ngoding ditemani musik / anime OST  
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rextt1122&show_icons=true&theme=graywhite)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rextt1122&layout=compact&theme=graywhite)
+
+---
+
+### 🐍 Contribution Snake
+> Optional — bisa dihapus kapan aja.
+  
+![snake gif](https://github.com/Rextt1122/Rextt1122/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📫 Contact
+- 📩 Email: **fabianhendriyansah@gmail.com**
+- 📷 Instagram: **@fabiyaan_**
+
