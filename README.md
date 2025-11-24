@@ -12,9 +12,4 @@ Computer Engineering Student • Python & IT Enthusiast
   <img src="https://skillicons.dev/icons?i=python,html,css,js,linux,git,github,arduino,vscode" />
 </p>
 
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rextt1122/github-snake/output/snake.svg">
-</p>
+--
