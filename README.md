@@ -22,7 +22,8 @@ Computer Engineering Student • Python & IT Enthusiast
 ---
 
 ### Contribution Snake
-![snake gif](https://raw.githubusercontent.com/Rextt1122/github-snake/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Rextt1122/github-snake/main/dist/snake.svg)
+
 
 
 
