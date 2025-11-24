@@ -1,4 +1,4 @@
-![Galaxy](https://raw.githubusercontent.com/Rextt1122/github-galaxy/main/dist/galaxy.svg?raw=1)
+<p align="center"> <img src="kaoruko.gif" width="650"> </p>
 
 
 ## Hi, I'm **Biyann**
