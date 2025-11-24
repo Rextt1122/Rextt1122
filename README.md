@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="kaoruko.gif" width="650">
-</p>
+![Galaxy](https://raw.githubusercontent.com/Rextt1122/github-galaxy/main/dist/galaxy.svg?raw=1)
 
 
 ## Hi, I'm **Biyann**
