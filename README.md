@@ -22,9 +22,8 @@ Computer Engineering Student • Python & IT Enthusiast
 ---
 
 ### 🐍 Contribution Snake
-> Optional — you can remove this anytime.
-  
 ![snake gif](https://github.com/Rextt1122/Rextt1122/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
