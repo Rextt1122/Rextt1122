@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="kaoruko.gif" width="700">
+  <img src="kaoruko.gif" width="650">
 </p>
 
 ## Hi, I'm **Biyann**
