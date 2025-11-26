@@ -1,4 +1,4 @@
-<img src="kaoruko.gif" align="left" width="600px" />
+<img src="kaoruko.gif" align="left" width="580px" />
 <br clear="left"/>
 
 
