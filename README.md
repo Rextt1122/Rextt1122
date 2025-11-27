@@ -3,7 +3,8 @@
 
 
 ## Hi, I'm **Biyann**
-Computer Engineering Student • My name is Fabian Hendriyansah, I’m from the Information Technology Department
+Computer Engineering Student • My name is Fabian Hendriyansah, 
+I’m from the Information Technology Department
 
 ---
 
