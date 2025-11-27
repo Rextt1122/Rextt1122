@@ -3,7 +3,7 @@
 
 
 ## Hi, I'm **Biyann**
-Computer Engineering Student • My name is Fabian Hendriyansah, I’m from the Information Technology Department and the D3 Computer Engineering study program 
+Computer Engineering Student • My name is Fabian Hendriyansah, I’m from the Information Technology Department
 
 ---
 
