@@ -10,22 +10,22 @@ Computer Engineering Student •
 ### Connect With Me
 <p align="left">
 
-  <!-- Instagram -->
+  <a href="https://rextt1122.github.io/Portofolio/">
+    <img src="https://img.shields.io/badge/Website_Portfolio-%236c5ce7.svg?logo=google-chrome&logoColor=white&style=for-the-badge" />
+  </a>
+
   <a href="https://instagram.com/fabiyaan_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" />
   </a>
 
-  <!-- Facebook -->
   <a href="https://facebook.com/yan.226312">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" />
   </a>
 
-  <!-- Gmail -->
   <a href="mailto:fabianhendriyansah@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 
-  <!-- Discord -->
   <a href="https://discord.com/users/690153711005859870">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
