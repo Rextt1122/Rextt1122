@@ -11,7 +11,7 @@ Computer Engineering Student •
 <p align="left">
 
   <a href="https://rextt1122.github.io/Portofolio/">
-    <img src="https://img.shields.io/badge/Website_Portfolio-%236c5ce7.svg?logo=google-chrome&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portofolio-%236c5ce7.svg?logo=google-chrome&logoColor=white&style=for-the-badge" />
   </a>
 
   <a href="https://instagram.com/fabiyaan_">
