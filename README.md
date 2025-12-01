@@ -32,7 +32,7 @@ Computer Engineering Student •
 
 ### Languages and Tools I Use
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,c,html,css,js,flutter,linux,github,arduino,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,php,c,html,css,js,flutter,linux,git,github,arduino,vscode" />
 </p>
 
 ---
