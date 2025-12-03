@@ -32,7 +32,55 @@ Computer Engineering Student •
 
 ### Languages and Tools I Use
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,c,html,css,js,flutter,linux,git,github,arduino,vscode" />
+
+  <a href="https://python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
+
+  <a href="https://gcc.gnu.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flutter" />
+  </a>
+
+  <a href="https://kernel.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+
+  <a href="https://github.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://www.arduino.cc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=arduino" />
+  </a>
+
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+
 </p>
 
 ---
