@@ -2,8 +2,8 @@
 <br clear="left"/>
 
 
-## Hi, I'm **Biyann**
-Computer Engineering Student •
+##Biyann**
+ID/EN
 
 ---
 
