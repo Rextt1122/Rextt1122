@@ -63,6 +63,3 @@ interests   : Design, Reading, Coding, UI/UX
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rextt1122&color=FF8C00&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
