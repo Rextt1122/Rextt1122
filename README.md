@@ -20,11 +20,13 @@
 
 ---
 
-### About Me
+### 👤 About Me
 
 ```yaml
 name        : Fabian Hendriyansah
 alias       : Rext
+college     : Jember State Polytechnic
+major       : Information Technology
 interests   : [Anime Design, Reading, Coding, UI/UX]
 website     : https://rext.me
 ```
@@ -72,39 +74,6 @@ website     : https://rext.me
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rextt1122&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0f0f&title_color=6C5CE7&icon_color=a29bfe&text_color=f4f4f4" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rextt1122&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f0f&title_color=6C5CE7&text_color=f4f4f4" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rextt1122&theme=tokyonight&hide_border=true&background=0f0f0f&ring=6C5CE7&fire=a29bfe&currStreakLabel=a29bfe" />
-</div>
-
----
-
-### GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rextt1122&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
-</div>
-
----
-
-### Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rextt1122&bg_color=0f0f0f&color=a29bfe&line=6C5CE7&point=ffffff&hide_border=true" />
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rextt1122&color=6C5CE7&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
-
-<div align="center">
-  <sub>✦ Designed & crafted by <a href="https://rext.me">Rext</a> ✦</sub>
 </div>
