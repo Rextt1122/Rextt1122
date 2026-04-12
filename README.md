@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="kaoruko.gif" width="70%" />
+  <img src="kaoruko.gif" width="80%" />
 </div>
 
 <br/>
