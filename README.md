@@ -17,10 +17,7 @@
 ```yaml
 name        : Fabian Hendriyansah
 alias       : Rext
-college     : Jember State Polytechnic
-major       : Information Technology
-interests   : [Anime Design, Reading, Coding, UI/UX]
-website     : https://rext.me
+interests   : Design, Reading, Coding, UI/UX
 ```
 
 ---
