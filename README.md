@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="kaoruko.gif" width="100%" />
+  <img src="kaoruko.gif" width="70%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C5CE7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Fabian+%F0%9F%91%8B;Designer+%26+Developer;Anime+Enjoyer+%7C+Code+Crafter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C5CE7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Fabian;Designer+%26+Developer;Anime+Enjoyer+%7C+Code+Crafter" alt="Typing SVG" />
 </div>
 
 <br/>
