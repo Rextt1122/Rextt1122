@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="kaoruko.gif" width="600px" />
+  <img src="kaoruko.gif" width="100%" />
 </div>
 
 <br/>
@@ -10,17 +10,9 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Based%20in-Jember%2C%20Indonesia-6C5CE7?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Major-Information%20Technology-a29bfe?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-00b894?style=for-the-badge&logo=handshake&logoColor=white" />
-</div>
-
-<br/>
-
 ---
 
-### 👤 About Me
+### About Me
 
 ```yaml
 name        : Fabian Hendriyansah
