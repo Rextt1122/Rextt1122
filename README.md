@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C5CE7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Fabian;Designer+%26+Developer;Anime+Enjoyer+%7C+Code+Crafter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Fabian;Designer+%26+Developer" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -67,5 +67,5 @@ website     : https://rext.me
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rextt1122&color=6C5CE7&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Rextt1122&color=FF8C00&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
