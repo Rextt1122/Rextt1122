@@ -49,6 +49,7 @@ interests   : Design, Reading, Coding, UI/UX
 <p align="left">
   <a href="https://python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
   <a href="https://www.php.net" target="_blank"><img src="https://skillicons.dev/icons?i=php" /></a>
+  <a href="https://laravel.com" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" /></a>
   <a href="https://gcc.gnu.org/" target="_blank"><img src="https://skillicons.dev/icons?i=c" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
