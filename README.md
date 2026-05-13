@@ -10,7 +10,7 @@
 
 <br/>
 
-## 👤 About Me
+## About Me
 
 ```yaml
 name        : Fabian Hendriyansah
@@ -20,7 +20,7 @@ interests   : Design, Reading, Coding, UI/UX
 
 <br/>
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://instagram.com/fabiyaan_">
@@ -42,7 +42,7 @@ interests   : Design, Reading, Coding, UI/UX
 
 <br/>
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="left">
   <a href="https://python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
@@ -62,66 +62,12 @@ interests   : Design, Reading, Coding, UI/UX
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rext1122&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rext1122&layout=compact&langs_count=7&theme=dracula" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rext1122&theme=dracula" />
-</div>
-
-<br/>
-
-## 🏆 Contribution Highlights
+## Contribution Highlights
 
 <div align="center">
 
-| 📁 Repositories | ⭐ Total Stars | 🔥 Contributions | 👥 Followers |
+| Repositories | Total Stars | Contributions | Followers |
 |:-:|:-:|:-:|:-:|
 | 10+ | 50+ | 500+ | 100+ |
 
 </div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌐 Portfolio Website</h3>
-      <p>Personal portfolio dengan Apache, PHP & MariaDB</p>
-      <a href="https://rext.me">
-        <img src="https://img.shields.io/badge/View-Live-6C5CE7?style=for-the-badge&logo=firefox&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🖥️ Web Server Config</h3>
-      <p>Debian Linux setup dengan Apache2, Named Virtual Hosting & HTTPS</p>
-      <a href="https://github.com/Rext1122">
-        <img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🗄️ Database Design</h3>
-      <p>Normalized MySQL schema untuk coursework</p>
-      <a href="https://github.com/Rext1122">
-        <img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🎨 UI/UX Projects</h3>
-      <p>Design & development dengan modern tools</p>
-      <a href="https://github.com/Rext1122">
-        <img src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
