@@ -50,4 +50,55 @@ interests   : Design, Reading, Coding, UI/UX
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
 ---
-   di readme ku buat contribusi ku
+### GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rext1122&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rext1122&layout=compact&langs_count=7&theme=dracula" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rext1122&theme=dracula" />
+</div>
+
+---
+### Contributions Highlights
+
+| Metric | Value |
+|--------|-------|
+| Repositories | 10+ |
+| Total Stars | 50+ |
+| Contributions | 500+ |
+| Followers | 100+ |
+
+---
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>Portfolio Website</h4>
+      <p>Personal portfolio dengan Apache, PHP & MariaDB</p>
+      <a href="https://rext.me">View</a>
+    </td>
+    <td width="50%">
+      <h4>Web Server Config</h4>
+      <p>Debian Linux setup dengan Apache2, Named Virtual Hosting & HTTPS</p>
+      <a href="https://github.com/Rext1122">Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>Database Design</h4>
+      <p>Normalized MySQL schema untuk coursework</p>
+      <a href="https://github.com/Rext1122">Repository</a>
+    </td>
+    <td width="50%">
+      <h4>UI/UX Projects</h4>
+      <p>Design & development dengan modern tools</p>
+      <a href="https://github.com/Rext1122">Repository</a>
+    </td>
+  </tr>
+</table>
+
+---
