@@ -65,5 +65,5 @@ interests   : Design, Reading, Coding, UI/UX
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rext1122&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rextt1122&theme=react-dark&hide_border=true&area=true" />
 </div>
