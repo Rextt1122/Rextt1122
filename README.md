@@ -62,12 +62,8 @@ interests   : Design, Reading, Coding, UI/UX
 
 <br/>
 
-## Contribution Highlights
+## Contribution Graph
 
 <div align="center">
-
-| Repositories | Total Stars | Contributions | Followers |
-|:-:|:-:|:-:|:-:|
-| 10+ | 50+ | 500+ | 100+ |
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rext1122&theme=react-dark&hide_border=true&area=true" />
 </div>
