@@ -50,3 +50,4 @@ interests   : Design, Reading, Coding, UI/UX
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
 ---
+   di readme ku buat contribusi ku
