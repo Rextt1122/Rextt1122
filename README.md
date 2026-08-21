@@ -2,7 +2,7 @@
 <p align="center"><b>Computer Engineering Student · Web & IoT Developer · UI/UX Enthusiast</b></p>
 
 <div align="center">
-  <img src="kaoruko.gif" width="45%" />
+  <img src="kaoruko.gif" width="65%" />
 </div>
 
 <p align="center">
