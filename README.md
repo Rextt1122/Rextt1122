@@ -1,24 +1,25 @@
-<div align="center">
-  <img src="kaoruko.gif" width="80%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF8383&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Fabian;Designer+%26+Developer" alt="Typing SVG" />
-</div>
-<br/>
-<div align="center">
-  <video src="kaoruko-waguri-the-fragrant-flower-blooms-with-dignity.mp4" width="80%" controls muted loop></video>
-</div>
-<br/>
+<h1 align="center">Fabian Hendriyansah</h1>
+<p align="center"><b>Computer Engineering Student · Web & IoT Developer · UI/UX Enthusiast</b></p>
+<p align="center">
+  <a href="https://rext.me">Portfolio</a> ·
+  <a href="https://github.com/Rextt1122?tab=repositories">Projects</a> ·
+  <a href="https://instagram.com/fabiyaan_">Instagram</a>
+</p>
 
-## About Me
-```yaml
-name        : Fabian Hendriyansah
-alias       : Rext
-based in    : Lumajang, Indonesia
-studying at : Politeknik Negeri Jember
-interests   : Design, Reading, Coding, UI/UX
-```
+<div align="center">
+  <img src="kaoruko.gif" width="70%" />
+</div>
+
+---
+
+## About
+
+I'm a Teknik Komputer student at Politeknik Negeri Jember (NIM E32251152), going by **Rext** online. Most of what I build comes out of coursework that outgrew the assignment brief — network infrastructure labs, web dashboards, and IoT systems that ended up doing real jobs.
+
+My work spans network infrastructure (FTP, proxy, NAS, monitoring with Zabbix/LibreNMS), Laravel-based web dashboards, and embedded IoT with ESP32/Arduino — like an automated monitoring system for oyster mushroom cultivation. I move between Python, PHP/Laravel, JS, C, and Flutter depending on what the problem calls for.
+
+Outside of coursework, I'm usually deep in Linux setup tweaks, gaming rig tuning, or messing around with UI/UX design.
+
 <br/>
 
 ## Featured Projects
