@@ -15,9 +15,9 @@
 
 ## About
 
-I'm a Teknik Komputer student at Politeknik Negeri Jember (NIM E32251152), going by **Rext** online. Most of what I build comes out of coursework that outgrew the assignment brief — network infrastructure labs, web dashboards, and IoT systems that ended up doing real jobs.
+I'm a Teknik Komputer student at Politeknik Negeri Jember, going by **Rext** online. Most of what I build comes out of coursework that outgrew the assignment brief — network infrastructure labs, web dashboards, and IoT systems that ended up doing real jobs.
 
-My work spans network infrastructure (FTP, proxy, NAS, monitoring with Zabbix/LibreNMS), Laravel-based web dashboards, and embedded IoT with ESP32/Arduino — like an automated monitoring system for oyster mushroom cultivation. I move between Python, PHP/Laravel, JS, C, and Flutter depending on what the problem calls for.
+My work spans network infrastructure (FTP, proxy, NAS, monitoring with Zabbix/LibreNMS), Laravel-based web dashboards, and embedded IoT with ESP32/Arduino like an automated monitoring system for oyster mushroom cultivation. I move between Python, PHP/Laravel, JS, C, and Flutter depending on what the problem calls for.
 
 Outside of coursework, I'm usually deep in Linux setup tweaks, gaming rig tuning, or messing around with UI/UX design.
 
