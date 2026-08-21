@@ -1,27 +1,46 @@
 <div align="center">
   <img src="kaoruko.gif" width="80%" />
 </div>
-
 <br/>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF8383&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Fabian;Designer+%26+Developer" alt="Typing SVG" />
 </div>
-
+<br/>
+<div align="center">
+  <video src="kaoruko-waguri-the-fragrant-flower-blooms-with-dignity.mp4" width="80%" controls muted loop></video>
+</div>
 <br/>
 
 ## About Me
-
 ```yaml
 name        : Fabian Hendriyansah
 alias       : Rext
+based in    : Lumajang, Indonesia
+studying at : Politeknik Negeri Jember
 interests   : Design, Reading, Coding, UI/UX
 ```
+<br/>
 
+## Featured Projects
+<p align="left">
+  <a href="https://github.com/Rextt1122/_jamkot">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Rextt1122&repo=_jamkot&theme=react-dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Rextt1122/Laravel">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Rextt1122&repo=Laravel&theme=react-dark&hide_border=true" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/Rextt1122/Semester-1">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Rextt1122&repo=Semester-1&theme=react-dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Rextt1122/Rext">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Rextt1122&repo=Rext&theme=react-dark&hide_border=true" />
+  </a>
+</p>
 <br/>
 
 ## Connect With Me
-
 <p align="left">
   <a href="https://instagram.com/fabiyaan_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" />
@@ -39,31 +58,43 @@ interests   : Design, Reading, Coding, UI/UX
     <img src="https://img.shields.io/badge/Portfolio-6C5CE7?logo=firefox&logoColor=white&style=for-the-badge" />
   </a>
 </p>
-
 <br/>
 
 ## Languages & Tools
-
+**Backend**
 <p align="left">
   <a href="https://python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
   <a href="https://www.php.net" target="_blank"><img src="https://skillicons.dev/icons?i=php" /></a>
   <a href="https://laravel.com" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" /></a>
   <a href="https://gcc.gnu.org/" target="_blank"><img src="https://skillicons.dev/icons?i=c" /></a>
+</p>
+
+**Frontend**
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a href="https://flutter.dev" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" /></a>
+</p>
+
+**Tools & OS**
+<p align="left">
   <a href="https://kernel.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
   <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.arduino.cc" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" /></a>
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
+<br/>
 
+## GitHub Stats
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rextt1122&show_icons=true&theme=react&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rextt1122&layout=compact&theme=react&hide_border=true" />
+</p>
 <br/>
 
 ## Contribution Graph
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rextt1122&theme=react-dark&hide_border=true&area=true" />
 </div>
