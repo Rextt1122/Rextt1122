@@ -46,9 +46,9 @@ Outside of coursework, I'm usually deep in Linux setup tweaks, gaming rig tuning
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="https://www.debian.org" target="_blank"><img src="https://skillicons.dev/icons?i=debian" /></a>
   <a href="https://ubuntu.com" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>
-  <a href="https://antigravity.google" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antigravity/antigravity-original.svg" width="45" height="45" /></a>
-  <a href="https://www.virtualbox.org" target="_blank"><img src="https://cdn.simpleicons.org/virtualbox" width="48" height="45" /></a>
-  <a href="https://learn.microsoft.com/en-us/windows/wsl" target="_blank"><img src="https://cdn.simpleicons.org/linux/FCC624" width="45" height="45" /></a>
+  <a href="https://antigravity.google" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antigravity/antigravity-original.svg" width="43" height="43" /></a>
+  <a href="https://www.virtualbox.org" target="_blank"><img src="https://cdn.simpleicons.org/virtualbox" width="43" height="43" /></a>
+  <a href="https://learn.microsoft.com/en-us/windows/wsl" target="_blank"><img src="https://cdn.simpleicons.org/linux/FCC624" width="43" height="43" /></a>
 </p>
 
 <br/>
