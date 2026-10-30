@@ -46,7 +46,6 @@ Outside of coursework, I'm usually deep in Linux setup tweaks, gaming rig tuning
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="https://www.debian.org" target="_blank"><img src="https://skillicons.dev/icons?i=debian" /></a>
   <a href="https://ubuntu.com" target="_blank"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>
-  <a href="https://antigravity.google" target="_blank"><img src="icons/antigravity.svg" /></a>
   <a href="https://www.virtualbox.org" target="_blank"><img src="icons/virtualbox.svg" /></a>
   <a href="https://learn.microsoft.com/en-us/windows/wsl" target="_blank"><img src="icons/wsl.svg" /></a>
 </p>
